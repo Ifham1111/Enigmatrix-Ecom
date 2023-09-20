@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:Ifham1111/Ecomfront.git
+[submodule "backend"]
+	path = backend
+	url = git@github.com:Ifham1111/Ecomback.git
